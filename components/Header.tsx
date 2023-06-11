@@ -13,7 +13,7 @@ export default function Header() {
           height={24}
         />
         <h1 className="sm:text-3xl text-xl font-bold ml-2 tracking-tight">
-          Test by Jason
+          JWSOFT
         </h1>
       </Link>
     </header>
